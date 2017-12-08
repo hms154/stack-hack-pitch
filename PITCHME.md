@@ -17,7 +17,7 @@
 ## Correlations(eg. versions vs crashes)
 ---
 # Elastic Stack Tech Overview
-![Elastic Stack Tech Overview](esto.png)
+![Elastic Stack Tech Overview](https://www.safaribooksonline.com/library/view/learning-kibana-50/9781786463005/graphics/image_01_002.jpg)
 ---
 # Demo
 ![Demo](demo.gif)
