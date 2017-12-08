@@ -1,7 +1,7 @@
 # Elastic Stack Hack
 ---
 # Elastic Stack Data Pipeline
-![something](elastic_stack_data_pipeline.png)
+![something](esdp.png)
 ---
 # Demo End-to-End Flow
 ---
