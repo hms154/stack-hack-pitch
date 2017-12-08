@@ -1,7 +1,7 @@
 # Elastic Stack Hack
 ---
 # Elastic Stack Data Pipeline
-![something](esdp.png)
+![something](Overview.png)
 ---
 # Demo End-to-End Flow
 ---
@@ -17,7 +17,7 @@
 ## Correlations(eg. versions vs crashes)
 ---
 # Elastic Stack Tech Overview
-![Elastic Stack Tech Overview](elastic_stack_tech_overview.png)
+![Elastic Stack Tech Overview](esto.png)
 ---
 # Demo
 ![Demo](demo.gif)
