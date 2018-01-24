@@ -2,7 +2,7 @@
 
 ---
 
-# Common Product Questions
+## Common Product Questions
 - Which features are most/least used?
 - Have we seen this issue in the field?
 - What are the steps to reproduce a field issue?
@@ -33,11 +33,10 @@ Our instrument system and application logs have a great deal of information. We 
 ---
 
 ## Future Applications
-### Track Customer Usage(App Launches/ui/clicks..)
-#### Adoption of new features
-### Tool for TAC
-### Alert on Error(crash/etc..)
-### Correlations(eg. versions vs crashes)
+- Track Customer Usage(App Launches/ui/clicks..)
+- Tool for TAC
+- Alert on Error(crash/etc..)
+- Correlations(eg. versions vs crashes)
 
 ---
 
