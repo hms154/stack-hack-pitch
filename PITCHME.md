@@ -2,18 +2,19 @@
 
 ---
 
-## Common Product Questions
-1. Which features are most/least used?
-2. Have we seen this issue in the field?
-3. What are the steps to reproduce a field issue?
+# Common Product Questions
+- Which features are most/least used?
+- Have we seen this issue in the field?
+- What are the steps to reproduce a field issue?
 
 ---
 
 ## The Problem
 Our instrument system and application logs have a great deal of information. We have thousands of data sources, but:
-1. We don't have historical data
-1. we can't easily analyze data we do get
-1. We often don't know the questions beforehand
+
+- We don't have historical data
+- we can't easily analyze data we do get
+- We often don't know the questions beforehand
 
 ---
 
